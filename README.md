@@ -1,2 +1,0 @@
-# allegro
-Allegro Game Project
